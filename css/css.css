@@ -1,0 +1,119 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+.caja_titulo{
+    text-align: center;
+    width: 1300px;
+    height: auto;
+    margin: auto;
+    margin-top: 80px;
+    color: #D94848;
+    font-size: 25px;
+}
+.caja_contenesora_1{
+    margin: auto;
+    border: 1px solid #707070;
+    width: 1300px;
+    height: auto;
+    margin-top: 50px;
+}
+.caja_numeros{
+    width: 1300px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    margin-top: 30px;
+}
+.caja_numeros div{
+    width: 100px;
+    height: 100px;
+    background-color: #310F40;
+    margin: 20px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.caja_numeros div p{
+    margin-top: 25px;
+}
+.caja_numeros_2{
+    width: 1300px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+}
+.caja_numeros_2 div{
+    width: 100px;
+    height: 100px;
+    background-color: #310F40;
+    margin: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.caja_numeros_2 div p{
+    margin-top: 25px;
+}
+.caja_contenedora{
+    margin: auto;
+    width: 1300px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #707070;
+    margin-bottom: 60px;
+}
+.caja_numeros_izquierda{
+    width: 650px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.caja_numeros_izquierda div{
+    background-color: #9AD2D9;
+    width: 600px;
+    height: 100px;
+    margin: 10px 25px 10px; 25px;
+}
+.caja_numeros_izquierda div p{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.caja_numeros_derecha{
+    
+    width: 650px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.caja_numeros_derecha div{
+    background-color: #D9644A;
+    width: 600px;
+    height: 100px;
+    margin: 10px 25px 10px; 25px;
+}
+.caja_numeros_derecha div p{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+
+
+
+
+
